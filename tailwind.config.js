@@ -10,9 +10,14 @@ module.exports = {
           "70%": { transform: "scale(1.5)", opacity: "0" },
           "100%": { transform: "scale(0.7)", opacity: "0" },
         },
+        fadeIn: {
+          "0%": { opacity: 0, transform: "scale(0.9)" },
+          "100%": { opacity: 1, transform: "scale(1)" },
+        },
       },
       animation: {
         pulseRing: "pulseRing 1s cubic-bezier(0.66, 0, 0, 1) infinite",
+        fadeIn: "fadeIn 0.3s ease-out",
       },
       fontFamily: {
         signika: ["Signika", "sans-serif"],

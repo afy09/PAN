@@ -89,7 +89,7 @@ const UMKMProduk = () => {
 
   return (
     <section className="-mt-4 md:-mt-7 relative z-20">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 mb-14">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 mb-28">
         {/* SEARCH */}
         <div className="bg-white rounded-full shadow-md px-4 py-3 flex items-center gap-3 w-full md:w-[50%]">
           <IoIosSearch className="text-gray-400 text-xl" />

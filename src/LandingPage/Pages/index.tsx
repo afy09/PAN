@@ -124,8 +124,8 @@ export default function Home() {
 
               {/* TITLE */}
               <div className="mt-14">
-                <h1 className="text-4xl font-extrabold leading-tight tracking-wide">PAN Peduli</h1>
-                <p className="text-sm opacity-90">Partai Amanat Nasional</p>
+                <h1 className="text-2xl font-extrabold leading-tight tracking-wide">DPD PAN Kota Dumai</h1>
+                <p className="opacity-90 -mt-1">Partai Amanat Nasional</p>
                 <p className="text-sm opacity-90 font-edu">Sahabat Rakyat</p>
               </div>
             </div>
